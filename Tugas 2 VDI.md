@@ -2,36 +2,33 @@ Dalam perkembangan visualisasi data terdapat prinsip-prinsip yang menentukan apa
 
 a. Bad Category
 
-![Screenshot (175)](https://github.com/user-attachments/assets/51371823-cc25-4524-a865-8557b53c8e81)
+![Screenshot (179)](https://github.com/user-attachments/assets/509f275c-76d3-4b41-8975-2cdf3985172b)
 
-1. Visualisasi data diatas merupakan Bad Visualization karena tidak memenuhi ke-4 prinsip visualisasi data:
-   a. Clarity: Pie chart ini menggunakan perspektif 3D yang membuat data lebih sulit dibaca dan tidak jelas.
-   b. Simplicity: Terlalu banyak kategori dalam satu pie chart, dan 3D memberikan elemen yang tidak perlu.
-   c. Consistency: Warna dan skala tidak konsisten, tidak ada legenda yang baik.
-   d. Context: Tidak ada keterangan atau label yang memadai, membuat sulit memahami kategori dan nilai data.
+1. Visualisasi data diatas merupakan Bad Visualization karena tidak memenuhi prinsip visualisasi data:
+   a. Terlalu banyak kategori: Membuat pie chart sulit dibaca.
+   b. Terlalu banyak warna: Sulit dibedakan oleh pengguna, terutama bagi mereka dengan masalah penglihatan warna.
+   c. Tidak intuitif: Informasi yang disajikan tidak mudah dipahami sekilas.
+   
+![Screenshot (180)](https://github.com/user-attachments/assets/3c1477d4-f4a2-4b71-b98d-e5a4973a04ee)
 
-![Screenshot (176)](https://github.com/user-attachments/assets/f74516b4-8383-4fc1-8b8c-60f513d4788f)
-
-2. Visualisasi data diatas merupakan Bad Visualization karena tidak memenuhi ke-4 prinsip visualisasi data:
-   a. Clarity: Penggunaan grafik 3D menyebabkan bagian yang lebih kecil sulit dibedakan.
-   b. Simplicity: Grafik ini terlalu kompleks untuk data yang dapat disajikan lebih baik dengan pie chart 2D atau bar chart.
-   c. Consistency: Perspektif 3D bisa membuat ukuran bagian grafik terlihat tidak proporsional.
-   d. Context: Sulit untuk benar-benar memahami perbandingan antar kategori.
-
+2. Visualisasi data diatas merupakan Bad Visualization karena tidak memenuhi prinsip visualisasi data:
+   a. Skala menyesatkan: Tidak dimulai dari nol, yang memberikan kesan bahwa perbedaan antar kategori lebih besar dari yang sebenarnya.
+   b. Visualisasi ini bisa mempengaruhi keputusan atau persepsi audiens secara negatif karena informasi yang tidak akurat (tidak objektif).
+   
 B. Good Category
 
-![Screenshot (178)](https://github.com/user-attachments/assets/8de9af35-0d90-4edf-93bb-12db4640f321)
+![Screenshot (181)](https://github.com/user-attachments/assets/733cda9c-223c-4944-8400-ae307b2fae88)
 
-3. Visualisasi data diatas merupakan Good Visualization karena memenuhi ke-4 prinsip visualisasi data:
-   a. Klaritas: Garis dan titik-titik pada grafik memberikan gambaran tren yang jelas. Label dan judul menjelaskan apa yang sedang ditampilkan.
-   b. Sederhana: Penggunaan warna tunggal dan garis putus-putus yang halus untuk grid, tidak ada elemen yang membingungkan.
-   c. Konsistensi: Warna dan garis digunakan secara konsisten.
-   d. Konteks: Grafik dilengkapi dengan judul, label sumbu, dan grid yang memudahkan pembaca memahami data.
+3. Visualisasi data diatas merupakan Good Visualization karena memenuhi prinsip visualisasi data:
+   a. Form dan Fungsi: Grafik menggunakan garis bersih dengan titik penanda untuk memperjelas data pertumbuhan. Warna biru sederhana tanpa gangguan visual.
+   b. Justifikasi Pilihan: Warna biru dan penanda dipilih agar mudah dibedakan. Label sumbu menjelaskan makna data dengan jelas.
+   c. Aksesibilitas: Font besar dan penempatan legenda yang intuitif, dengan garis grid transparan untuk panduan tanpa terlalu menonjol.
+   d. Tidak Menyesatkan: Skala sumbu Y disetel agar mencerminkan perubahan sebenarnya dalam data tanpa memperbesar atau memperkecil perubahan.
 
-![Screenshot (177)](https://github.com/user-attachments/assets/4121bb05-87c8-4d6f-836f-c7d2256e4be7)
+![Screenshot (182)](https://github.com/user-attachments/assets/b0123801-dfc2-4ae4-b9fb-d4e63d4e2ac9)
 
-4. Visualisasi data diatas merupakan Good Visualization karena memenuhi ke-4 prinsip visualisasi data:
-   a. Klaritas: Setiap elemen (judul, label sumbu) jelas terlihat dan memberikan konteks kepada pembaca.
-   b. Sederhana: Tidak ada elemen visual yang berlebihan seperti warna yang terlalu banyak atau pola dekoratif.
-   c. Konsistensi: Penggunaan warna yang konsisten di seluruh grafik
-   d. Konteks: Grafik diberi label yang jelas sehingga audiens dapat dengan mudah memahami informasi.
+4. Visualisasi data diatas merupakan Good Visualization karena memenuhi prinsip visualisasi data:
+   a. Strive for Form and Function: Bar chart yang bersih, mudah dipahami.
+   b. Justifying the Selection: Setiap elemen visual (warna, label) menambah kejelasan.
+   c. Creating Accessibility: Warna yang dapat dibedakan dengan mudah, label dan grid yang jelas.
+   d. Never Deceive: Skala yang akurat, tanpa distorsi data.
