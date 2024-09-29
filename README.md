@@ -1,6 +1,7 @@
 Dalam perkembangan visualisasi data terdapat prinsip-prinsip yang menentukan apakah visualisasi data tersebut masuk kedalam kategori Good atau Bad
 
 a. Bad Category
+
 ![Screenshot (175)](https://github.com/user-attachments/assets/51371823-cc25-4524-a865-8557b53c8e81)
 
 1. Visualisasi data diatas merupakan Bad Visualization karena tidak memenuhi ke-4 prinsip visualisasi data:
@@ -16,6 +17,8 @@ a. Bad Category
    b. Simplicity: Grafik ini terlalu kompleks untuk data yang dapat disajikan lebih baik dengan pie chart 2D atau bar chart.
    c. Consistency: Perspektif 3D bisa membuat ukuran bagian grafik terlihat tidak proporsional.
    d. Context: Sulit untuk benar-benar memahami perbandingan antar kategori.
+
+B. Good Category
 
 ![Screenshot (178)](https://github.com/user-attachments/assets/8de9af35-0d90-4edf-93bb-12db4640f321)
 
