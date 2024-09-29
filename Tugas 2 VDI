@@ -1,0 +1,14 @@
+Dalam pengembangan visualisasi data, terdapat prinsip-prinsip yang menentukan apakah visusalisasi data tersebut termasuk dalam kategori Good atau Bad
+1. Clarity
+2. Simplicity
+3. Consistency
+4. Context
+Berikut merupakan 2 contoh dari visualisasi data Bad dan Good
+
+a. Bad Category
+1. Pie chart yang memiliki segmen kecil (clarity), terlalu banyak warna (simplicity), penggunaan berbagai jenis font (consistency) dan tidak memiliki judul yanng jelas (contexts).
+2. Bar chart yang memiliki skala sumbu Y atau X yang tidak konsisten (clarity), menggunakan banyak pola dan gradasi warna yang tidak relevan (simplicity), bentuk batang yang tidak sama (ada yang 3D dan 2D) (consistency), tidak terdapat label yang jelas ada ssumbu X atau Y (contexts).
+
+b. Good Category
+1. Grafik batang horizontal yang menunjukkan pendapatan per wilayah dengan skala konsisten, label pada sumbu X menunjukkan jumlah dalam dolar, dan warna tunggal untuk setiap wilayah. Judul grafik adalah "Pendapatan Per Wilayah (2023)", dan setiap batang diberi label yang tepat.
+2. Grafik garis sederhana yang menunjukkan penjualan bulanan dari Januari hingga Desember 2023, dengan satu garis biru untuk tahun 2022 dan satu garis merah untuk tahun 2023, memberikan perbandingan yang jelas.
